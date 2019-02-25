@@ -1,0 +1,36 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="content_margin_bottom">50dp</dimen>
+
+    <dimen name="volunteer_category_grid_space">3.3dp</dimen>
+
+
+
+    <!-- CI : Gray : inset-->
+    <dimen name="ci_gray_inset">150dp</dimen>
+
+    <!-- 폰트 크기 -->
+    <dimen name="font_25">8.3sp</dimen>
+    <dimen name="font_27">9sp</dimen>
+    <dimen name="font_30">10sp</dimen>
+    <dimen name="font_33">11sp</dimen>
+    <dimen name="font_36">12sp</dimen>
+    <dimen name="font_39">13sp</dimen>
+    <dimen name="font_40">13.3sp</dimen>
+    <dimen name="font_42">14sp</dimen>
+    <dimen name="font_45">15sp</dimen>
+    <dimen name="font_48">16sp</dimen>
+    <dimen name="font_50">16.6sp</dimen>
+    <dimen name="font_51">17sp</dimen>
+    <dimen name="font_54">18sp</dimen>
+    <dimen name="font_60">20sp</dimen>
+    <dimen name="font_81">27sp</dimen>
+    <dimen name="font_120">40sp</dimen>
+    <dimen name="font_150">50sp</dimen>
+    <dimen name="font_180">60sp</dimen>
+
+
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Ocr-sample</string>
+
+    <!-- permission -->
+    <string name="warning_content">"The app was not allowed to write to your storage. Hence, it cannot function properly. Please consider granting it this permission"</string>
+
+    <!-- Depth Activity-->
+    <string name="finish_application">\‘뒤로\’ 버튼을 한번 더 누르시면 종료됩니다.</string>
+    <string name="empty_contours">글자를 구분하는데 실패하였습니다.</string>
+    <string name="too_short_or_too_long_contours">글자크기가 너무 작거나, 또는 너무 큽니다.</string>
+    <string name="find_words">단어를 검출 하였습니다.</string>
+
+
+</resources>
